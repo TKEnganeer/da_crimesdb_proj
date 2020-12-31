@@ -1,1 +1,2 @@
-# da_crimesdb_proj
+# Boston Crime Reports db
+In this project I have built a simple database from from scratch using a dataset from a Boston csv file with the Postgres database engine to perform basic SQL queries. I also created the appropriate datatypes for storing the data and the priviledges for the users (data analysts and data scientists). The advantages of using Postgres as opposed to another database engine such as SQLite is it's flexibility and scalability when it comes to multiple usership.
